@@ -7,7 +7,6 @@
 #include <system_stm32f0xx.h>
 #include "string.h"
 #include "stdlib.h"
-
 //********************************************************
 //------инициализация GPIO------------------------
 #define GPIO_RCC		RCC->AHBENR |= RCC_AHBENR_GPIOAEN
