@@ -5,7 +5,7 @@
 
 #include <stm32f0xx.h>
 #include <system_stm32f0xx.h>
-#include "string.h" //Подключение функций Си
+#include "string.h"
 #include "stdlib.h"
 
 //********************************************************
